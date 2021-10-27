@@ -1,0 +1,5 @@
+﻿  3.cpp
+C:\Projects\C++ Primer Plus\Chapter3\Programming_Exercises\3\3.cpp(16,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projects\C++ Primer Plus\Chapter3\Programming_Exercises\3\3.cpp(17,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projects\C++ Primer Plus\Chapter3\Programming_Exercises\3\3.cpp(18,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  3.vcxproj -> C:\Projects\C++ Primer Plus\Chapter3\Programming_Exercises\Debug\3.exe
