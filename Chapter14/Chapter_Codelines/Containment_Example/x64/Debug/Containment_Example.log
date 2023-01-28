@@ -1,0 +1,5 @@
+﻿  main.cpp
+  student.cpp
+C:\Projects\C++ Primer Plus\Chapter14\Chapter_Codelines\Containment_Example\student.cpp(31,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Containment_Example.vcxproj -> C:\Projects\C++ Primer Plus\Solution\x64\Debug\Containment_Example.exe
